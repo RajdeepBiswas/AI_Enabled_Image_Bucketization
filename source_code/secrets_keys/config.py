@@ -1,0 +1,3 @@
+STORAGE_ACCOUNT_NAME = 'blob9cognitive'
+
+STORAGE_ACCOUNT_KEY = 'eAGbB/btFlVMmb7YHElkGig8ffeWaIt+6/USRAw3biZ45I9QT7Sqpik3yPpAuO+qO9yyidKpLg6kL8xMONFFnA=='
