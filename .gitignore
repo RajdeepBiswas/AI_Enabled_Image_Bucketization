@@ -1,0 +1,6 @@
+secrets_keys/config.py
+source_code/test.py
+source_code/_pycache_
+secrets_keys/_pycache_
+virtual_env/*
+test_images/*
